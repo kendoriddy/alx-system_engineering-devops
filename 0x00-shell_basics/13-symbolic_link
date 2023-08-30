@@ -1,2 +1,2 @@
-chmod u+x create_symbolic_link.sh
+#!/bin/bash
 ln -s /bin/ls __ls__
